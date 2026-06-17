@@ -14,11 +14,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0125-valid-palindrome) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3794-reverse-string-prefix](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/3794-reverse-string-prefix) |
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0125-valid-palindrome) |
 | [3498-reverse-degree-of-a-string](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/3498-reverse-degree-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/3794-reverse-string-prefix) |
 ## Simulation

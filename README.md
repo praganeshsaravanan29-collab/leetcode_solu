@@ -16,5 +16,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/3498-reverse-degree-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/3794-reverse-string-prefix) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->

@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0073-set-matrix-zeroes) |
 | [1408-string-matching-in-an-array](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1408-string-matching-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1470-shuffle-the-array) |
 | [1672-richest-customer-wealth](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1672-richest-customer-wealth) |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0073-set-matrix-zeroes) |
 | [1672-richest-customer-wealth](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1672-richest-customer-wealth) |
 ## Two Pointers
 |  |
@@ -41,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0172-factorial-trailing-zeroes) |
+## Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->

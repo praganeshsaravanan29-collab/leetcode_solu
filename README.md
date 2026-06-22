@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0073-set-matrix-zeroes) |
 | [1408-string-matching-in-an-array](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1408-string-matching-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1470-shuffle-the-array) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0073-set-matrix-zeroes) |
 | [1672-richest-customer-wealth](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1672-richest-customer-wealth) |
 ## Two Pointers
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0048-rotate-image) |
 | [0172-factorial-trailing-zeroes](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0172-factorial-trailing-zeroes) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table

@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0709-to-lower-case) |
 | [1408-string-matching-in-an-array](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1408-string-matching-in-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [3019-number-of-changing-keys](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/3019-number-of-changing-keys) |
 | [3498-reverse-degree-of-a-string](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/3498-reverse-degree-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/3794-reverse-string-prefix) |
 ## Simulation

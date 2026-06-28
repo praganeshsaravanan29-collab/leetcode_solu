@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0048-rotate-image) |
 | [0172-factorial-trailing-zeroes](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0172-factorial-trailing-zeroes) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1486-xor-operation-in-an-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table

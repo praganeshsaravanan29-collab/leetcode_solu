@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0118-pascals-triangle) |
 | [0229-majority-element-ii](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0229-majority-element-ii) |
+| [0682-baseball-game](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0682-baseball-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0977-squares-of-a-sorted-array) |
 | [1408-string-matching-in-an-array](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1408-string-matching-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1470-shuffle-the-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0682-baseball-game) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3498-reverse-degree-of-a-string](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/3498-reverse-degree-of-a-string) |
 ## String Matching
@@ -93,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0229-majority-element-ii) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->

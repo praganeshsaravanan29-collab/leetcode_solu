@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0118-pascals-triangle) |
 | [0229-majority-element-ii](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0229-majority-element-ii) |
 | [0682-baseball-game](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0682-baseball-game) |
+| [0704-binary-search](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0977-squares-of-a-sorted-array) |
 | [1408-string-matching-in-an-array](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1408-string-matching-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1470-shuffle-the-array) |
@@ -99,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0682-baseball-game) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->

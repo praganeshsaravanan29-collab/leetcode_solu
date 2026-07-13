@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0977-squares-of-a-sorted-array) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1408-string-matching-in-an-array](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1408-string-matching-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1470-shuffle-the-array) |
 | [1550-three-consecutive-odds](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1550-three-consecutive-odds) |
@@ -112,4 +113,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0704-binary-search) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 <!---LeetCode Topics End-->

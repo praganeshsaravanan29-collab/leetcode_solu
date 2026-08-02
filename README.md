@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0540-single-element-in-a-sorted-array) |
 | [0682-baseball-game](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0704-binary-search) |
+| [0877-stone-game](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0977-squares-of-a-sorted-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1408-string-matching-in-an-array](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1408-string-matching-in-an-array) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0048-rotate-image) |
 | [0172-factorial-trailing-zeroes](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0172-factorial-trailing-zeroes) |
 | [0507-perfect-number](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0507-perfect-number) |
+| [0877-stone-game](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1486-xor-operation-in-an-array) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0118-pascals-triangle) |
+| [0877-stone-game](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1025-divisor-game) |
 ## Counting
 |  |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1025-divisor-game) |
 ## Linked List
 |  |

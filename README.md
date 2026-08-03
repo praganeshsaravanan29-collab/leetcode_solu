@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1004-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1406-stone-game-iii](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1406-stone-game-iii) |
 | [1408-string-matching-in-an-array](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1408-string-matching-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1470-shuffle-the-array) |
 | [1550-three-consecutive-odds](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1550-three-consecutive-odds) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1406-stone-game-iii](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1406-stone-game-iii) |
 | [1486-xor-operation-in-an-array](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1486-xor-operation-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1822-sign-of-the-product-of-an-array) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0118-pascals-triangle) |
 | [0877-stone-game](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1025-divisor-game) |
+| [1406-stone-game-iii](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1406-stone-game-iii) |
 ## Counting
 |  |
 | ------- |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1025-divisor-game) |
+| [1406-stone-game-iii](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1406-stone-game-iii) |
 ## Linked List
 |  |
 | ------- |
@@ -157,4 +161,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1004-max-consecutive-ones-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->

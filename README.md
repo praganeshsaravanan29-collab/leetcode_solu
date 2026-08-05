@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0125-valid-palindrome) |
 | [0409-longest-palindrome](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0424-longest-repeating-character-replacement) |
 | [0657-robot-return-to-origin](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0709-to-lower-case) |
 | [1408-string-matching-in-an-array](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1408-string-matching-in-an-array) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0142-linked-list-cycle-ii) |
 | [0229-majority-element-ii](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0229-majority-element-ii) |
 | [0409-longest-palindrome](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0904-fruit-into-baskets) |
 ## Bit Manipulation
 |  |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum

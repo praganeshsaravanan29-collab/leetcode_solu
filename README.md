@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0424-longest-repeating-character-replacement) |
 | [0657-robot-return-to-origin](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0709-to-lower-case) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1408-string-matching-in-an-array](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1408-string-matching-in-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2942-find-words-containing-character](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/2942-find-words-containing-character) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0930-binary-subarrays-with-sum) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1004-max-consecutive-ones-iii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Prefix Sum
 |  |
 | ------- |

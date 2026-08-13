@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2942-find-words-containing-character](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/2942-find-words-containing-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1408-string-matching-in-an-array](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1408-string-matching-in-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2942-find-words-containing-character](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/3019-number-of-changing-keys) |
 | [3498-reverse-degree-of-a-string](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/3498-reverse-degree-of-a-string) |
@@ -229,4 +231,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/3345-smallest-divisible-digit-product-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->

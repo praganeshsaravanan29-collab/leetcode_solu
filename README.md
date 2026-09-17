@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0118-pascals-triangle) |
 | [0162-find-peak-element](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0229-majority-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0540-single-element-in-a-sorted-array) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0213-house-robber-ii) |
 | [0877-stone-game](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1025-divisor-game) |
 | [1406-stone-game-iii](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1406-stone-game-iii) |

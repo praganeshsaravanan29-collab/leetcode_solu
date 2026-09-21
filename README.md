@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0172-factorial-trailing-zeroes) |
 | [0507-perfect-number](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0507-perfect-number) |
 | [0877-stone-game](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0877-stone-game) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0234-palindrome-linked-list) |
 ## Sliding Window
 |  |

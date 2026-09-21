@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0151-reverse-words-in-a-string) |
 | [0409-longest-palindrome](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0409-longest-palindrome) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0213-house-robber-ii) |
@@ -245,4 +247,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->

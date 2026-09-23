@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1406-stone-game-iii) |
 | [1486-xor-operation-in-an-array](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1486-xor-operation-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1922-count-good-numbers](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1922-count-good-numbers) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0234-palindrome-linked-list) |
+| [1922-count-good-numbers](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1922-count-good-numbers) |
 ## Sliding Window
 |  |
 | ------- |

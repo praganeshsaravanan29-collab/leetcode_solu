@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0118-pascals-triangle) |
 | [0162-find-peak-element](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0198-house-robber) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0078-subsets) |
 | [1486-xor-operation-in-an-array](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1486-xor-operation-in-an-array) |
 ## Sorting
 |  |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0078-subsets) |
 ## Bracket Sequences
 |  |
 | ------- |

@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Matrix
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3232-find-if-digit-game-can-be-won](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
 | ------- |

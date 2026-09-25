@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0424-longest-repeating-character-replacement) |
 | [0657-robot-return-to-origin](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0709-to-lower-case) |
+| [1096-brace-expansion-ii](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1096-brace-expansion-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1408-string-matching-in-an-array](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1408-string-matching-in-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0930-binary-subarrays-with-sum) |
+| [1096-brace-expansion-ii](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1096-brace-expansion-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0229-majority-element-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0977-squares-of-a-sorted-array) |
+| [1096-brace-expansion-ii](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1096-brace-expansion-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Greedy
 |  |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0682-baseball-game) |
+| [1096-brace-expansion-ii](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1096-brace-expansion-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -247,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
@@ -271,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0078-subsets) |
+| [1096-brace-expansion-ii](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
 | ------- |

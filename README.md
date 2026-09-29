@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/2942-find-words-containing-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0073-set-matrix-zeroes) |
 | [1672-richest-customer-wealth](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1672-richest-customer-wealth) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Two Pointers
 |  |
 | ------- |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1025-divisor-game) |
 | [1406-stone-game-iii](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1406-stone-game-iii) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Counting
 |  |
 | ------- |
@@ -301,4 +304,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->

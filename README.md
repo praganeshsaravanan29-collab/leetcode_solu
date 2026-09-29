@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1025-divisor-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1248-count-number-of-nice-subarrays) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1406-stone-game-iii](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1406-stone-game-iii) |
 | [1486-xor-operation-in-an-array](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1486-xor-operation-in-an-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0234-palindrome-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |

@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0151-reverse-words-in-a-string) |
+| [0301-remove-invalid-parentheses](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0301-remove-invalid-parentheses) |
 | [0409-longest-palindrome](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0424-longest-repeating-character-replacement) |
 | [0657-robot-return-to-origin](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0657-robot-return-to-origin) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0131-palindrome-partitioning) |
+| [0301-remove-invalid-parentheses](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |

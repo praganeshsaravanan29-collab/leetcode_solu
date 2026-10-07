@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0151-reverse-words-in-a-string) |
 | [0409-longest-palindrome](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0424-longest-repeating-character-replacement) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0032-longest-valid-parentheses) |
 | [0118-pascals-triangle](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0118-pascals-triangle) |
+| [0131-palindrome-partitioning](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0213-house-robber-ii) |
 | [0877-stone-game](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0877-stone-game) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0131-palindrome-partitioning) |
 | [1096-brace-expansion-ii](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |

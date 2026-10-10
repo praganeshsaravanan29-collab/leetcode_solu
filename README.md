@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/2942-find-words-containing-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0977-squares-of-a-sorted-array) |
 | [1096-brace-expansion-ii](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1096-brace-expansion-ii) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Greedy
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0455-assign-cookies) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1004-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Brainteaser
 |  |
@@ -277,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/0215-kth-largest-element-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Quickselect
 |  |
 | ------- |

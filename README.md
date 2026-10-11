@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/2942-find-words-containing-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/praganeshsaravanan29-collab/leetcode_solu/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Segment Tree
 |  |
